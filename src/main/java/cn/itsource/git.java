@@ -9,5 +9,6 @@ public class git {
         System.out.println("员工B提交分支了哈");
         System.out.println("员工B先一步提交了代码");
         System.out.println("员工B提交分支了哈");
+        System.out.println("我员工A 提交一次哈");
     }
 }
